@@ -10,7 +10,7 @@ npm install
 # 运行项目
 npm run dev
 
-项目运行后，建议在微信开发者工具中演示本地效果
+项目运行后，建议在微信开发者工具中演示本地效果(运行项目需要修改components中的HelloWorld.vue中的对应应用参数)
 
 ## 运行截图
 ![image](https://github.com/Ma-Tao007/baidu-vioceAI-VueSDK/blob/master/src/assets/runimage/run.png)
