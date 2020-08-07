@@ -1,6 +1,6 @@
 # baidu-vioce-demo
 
->  基于vue的百度语音识别客户端识别方式[基于java版本](https://github.com/Ma-Tao007/baidu-vioceAI-VueSDK)
+>  基于vue的百度语音识别客户端识别方式（[基于java版本](https://github.com/Ma-Tao007/baidu-vioceAI-VueSDK)）
 
 ## Build Setup
 
